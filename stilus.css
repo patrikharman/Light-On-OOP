@@ -1,0 +1,19 @@
+#jatekter {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 5px;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.lampa {
+    width: 400px;
+    height: 50px;
+    cursor: pointer;
+    background-color: green; 
+}
+
+.info-panel {
+    margin-top: 20px;
+    text-align: center;
+}
